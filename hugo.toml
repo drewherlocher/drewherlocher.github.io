@@ -35,19 +35,19 @@ url = "mailto:drewmychiskyt@gmail.com"
 [[menu.main]]
 name = "About"
 weight = 1
-url = "about/"
+url = "/about/"
 
 [[menu.main]]
 name = "Projects"
 weight = 2
-url = "projects/"
+url = "/projects/"
 
 [[menu.main]]
 name = "Resume"
 weight = 3
-url = "resume/"
+url = "/resume/"
 
 [[menu.main]]
 name = "Contact"
 weight = 4
-url = "contact/"
+url = "/contact/"
