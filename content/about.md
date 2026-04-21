@@ -1,6 +1,5 @@
 ---
 title: "About"
-date: 2026-01-28
 draft: false
 ---
 
@@ -38,6 +37,6 @@ I'm passionate about building interactive experiences and am always looking to s
 
 ### Experience
 
-I bring a mix of technical knowledge and real-world, people-facing experience. As a Student Ambassador at Champlain College I led campus tours for prospective students, tracked outreach in Salesforce, and learned how to represent something I genuinely care about. Before that I worked as a barista, a print manager, and most recently as a cashier at Target — roles that built my communication, problem-solving, and composure under pressure.
+I bring a mix of technical knowledge and real-world, people-facing experience. As a Student Ambassador at Champlain College, I led campus tours for prospective students, tracked outreach in Salesforce, and learned how to represent something I genuinely care about. Prior to that, I worked as a barista, a print manager, and most recently as a cashier at Target, roles that built my communication, problem-solving, and composure under pressure.
 
 [View my full resume →](/resume)

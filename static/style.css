@@ -1,117 +1,228 @@
+/* cyan — matches chyma's reverb glow, felt right */
 :root {
-  --accent: #00e5ff;
-  --background: #0f0f14;
-  --color: #e0e0e0;
-  --border-color: rgba(0, 229, 255, 0.15);
+    --accent: #00e5ff;
+    --background: #0f0f14;
+    --color: #e0e0e0;
+    --border-color: rgba(0, 229, 255, 0.15);
 }
 
+/* the _ after my name blinks like a real terminal, love this one */
 .logo a::after {
-  content: "_";
-  animation: blink 1s step-end infinite;
+    content: "_";
+    animation: blink 1s step-end infinite;
 }
 
 @keyframes blink {
-  50% { opacity: 0; }
+    50% {
+        opacity: 0;
+    }
 }
 
+/* subtle CRT scanlines over the whole page, don't touch the opacity
+   or it gets too strong and looks bad */
 body::after {
-  content: "";
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: repeating-linear-gradient(
-    transparent,
-    transparent 2px,
-    rgba(0, 0, 0, 0.04) 2px,
-    rgba(0, 0, 0, 0.04) 4px
-  );
-  pointer-events: none;
-  z-index: 9999;
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: repeating-linear-gradient( transparent, transparent 2px, rgba(0, 0, 0, 0.04) 2px, rgba(0, 0, 0, 0.04) 4px );
+    pointer-events: none;
+    z-index: 9999;
 }
 
+/* links glow when you hover them, feels very tron */
 a:hover {
-  text-shadow: 0 0 10px var(--accent), 0 0 20px var(--accent);
-  transition: text-shadow 0.2s ease;
+    text-shadow: 0 0 10px var(--accent), 0 0 20px var(--accent);
+    transition: text-shadow 0.2s ease;
 }
 
+/* little cyan bar on the left of every heading */
 h2, h3 {
-  border-left: 3px solid var(--accent);
-  padding-left: 10px;
+    border-left: 3px solid var(--accent);
+    padding-left: 10px;
 }
 
+/* bold text pops in cyan instead of white */
 strong {
-  color: var(--accent);
+    color: var(--accent);
 }
 
+/* the chyma banner at the top pulses, draws the eye without being annoying */
 .banner {
-  animation: pulse-border 2.5s ease-in-out infinite;
+    animation: pulse-border 2.5s ease-in-out infinite;
 }
 
 @keyframes pulse-border {
-  0%, 100% { border-color: var(--accent); }
-  50% { border-color: transparent; }
+    0%, 100% {
+        border-color: var(--accent);
+    }
+
+    50% {
+        border-color: transparent;
+    }
 }
 
+/* posts float up slightly when you hover, satisfying */
 .post:hover, article:hover {
-  transform: translateY(-3px);
-  transition: transform 0.2s ease;
+    transform: translateY(-3px);
+    transition: transform 0.2s ease;
 }
 
+/* thin cyan scrollbar instead of the ugly default one */
 ::-webkit-scrollbar {
-  width: 6px;
+    width: 6px;
 }
 
 ::-webkit-scrollbar-track {
-  background: var(--background);
+    background: var(--background);
 }
 
 ::-webkit-scrollbar-thumb {
-  background: var(--accent);
-  border-radius: 3px;
+    background: var(--accent);
+    border-radius: 3px;
 }
 
-::-webkit-scrollbar-thumb:hover {
-  background: #fff;
-}
+    ::-webkit-scrollbar-thumb:hover {
+        background: #fff;
+    }
 
+/* page titles flicker occasionally like an old monitor
+   keep the intervals far apart or it gets annoying fast */
 h1 {
-  animation: flicker 4s infinite;
+    animation: flicker 4s infinite;
 }
 
 @keyframes flicker {
-  0%, 95%, 100% { opacity: 1; }
-  96% { opacity: 0.6; }
-  97% { opacity: 1; }
-  98% { opacity: 0.4; }
-  99% { opacity: 1; }
+    0%, 95%, 100% {
+        opacity: 1;
+    }
+
+    96% {
+        opacity: 0.6;
+    }
+
+    97% {
+        opacity: 1;
+    }
+
+    98% {
+        opacity: 0.4;
+    }
+
+    99% {
+        opacity: 1;
+    }
 }
 
+/* footer fades out a bit, it's not the star of the show */
 footer {
-  border-top: 1px solid var(--accent);
-  margin-top: 2rem;
-  padding-top: 1rem;
-  font-size: 0.8rem;
-  opacity: 0.6;
+    border-top: 1px solid var(--accent);
+    margin-top: 2rem;
+    padding-top: 1rem;
+    font-size: 0.8rem;
+    opacity: 0.6;
 }
 
+/* images get a faint cyan glow, looks especially good on
+   the chyma screenshots */
 img {
-  border: 1px solid rgba(0, 229, 255, 0.2);
-  box-shadow: 0 0 15px rgba(0, 229, 255, 0.1);
-  transition: box-shadow 0.3s ease;
+    border: 1px solid rgba(0, 229, 255, 0.2);
+    box-shadow: 0 0 15px rgba(0, 229, 255, 0.1);
+    transition: box-shadow 0.3s ease;
+    max-width: 100%;
+    height: auto;
 }
 
-img:hover {
-  box-shadow: 0 0 25px rgba(0, 229, 255, 0.35);
-}
+    img:hover {
+        box-shadow: 0 0 25px rgba(0, 229, 255, 0.35);
+    }
 
+/* code blocks get a cyan border, fits the terminal vibe */
 pre, code {
-  border: 1px solid var(--accent);
-  box-shadow: 0 0 10px rgba(0, 229, 255, 0.1);
+    border: 1px solid var(--accent);
+    box-shadow: 0 0 10px rgba(0, 229, 255, 0.1);
 }
 
+/* highlighted text goes cyan/black instead of the browser default */
 ::selection {
-  background: var(--accent);
-  color: #000;
+    background: var(--accent);
+    color: #000;
+}
+
+/* mobile stuff below — the banner especially needed work on small screens */
+
+@media (max-width: 684px) {
+
+    /* banner was overflowing on my phone, this fixes it */
+    .banner {
+        font-size: 0.75rem;
+        padding: 8px 12px;
+        text-align: center;
+        white-space: normal;
+        line-height: 1.5;
+        word-break: break-word;
+    }
+
+    /* void DrewHerlocher() is long, needed to handle overflow */
+    .logo a {
+        font-size: 1rem;
+        word-break: break-word;
+    }
+
+    /* scale headings down on small screens */
+    h1 {
+        font-size: 1.4rem;
+    }
+
+    h2 {
+        font-size: 1.1rem;
+    }
+
+    h3 {
+        font-size: 1rem;
+    }
+
+    /* nav wraps instead of overflowing */
+    .menu {
+        flex-wrap: wrap;
+        gap: 8px;
+    }
+
+    /* padding and no horizontal overflow */
+    .content {
+        padding: 0 12px;
+        overflow-x: hidden;
+        word-break: break-word;
+    }
+
+    /* hover lift doesn't work well on touch screens anyway */
+    .post:hover, article:hover {
+        transform: none;
+    }
+
+    /* just making sure images don't blow out */
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    /* tables scroll sideways instead of breaking everything */
+    table {
+        display: block;
+        overflow-x: auto;
+        white-space: nowrap;
+    }
+
+    /* same for code blocks */
+    pre {
+        overflow-x: auto;
+        white-space: pre;
+    }
+
+    /* scrollbar looks weird on mobile, just hide it */
+    ::-webkit-scrollbar {
+        width: 0;
+    }
 }
