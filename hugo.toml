@@ -16,34 +16,35 @@ disableKinds = ["RSS"]
   email = "drewmychiskyt@gmail.com"
 
 [params]
-author = "Drew Herlocher"
-description = "Game Programming student at Champlain College, graduating May 2026. I build games, interactive experiences, and the AI systems that make them feel alive. Based in Burlington, VT — originally from New York City."
-colorScheme = "auto"
-themeColor = "pink"
-centerTheme = true
-contentTypeName = "blog"
-readingTime = true
+  author = "Drew Herlocher"
+  description = "Game Programming student at Champlain College, graduating May 2026. I build games, interactive experiences, and the AI systems that make them feel alive. Based in Burlington, VT — originally from New York City."
+  themeColor = "pink"
+  centerTheme = true
+  contentTypeName = "blog"
+  readingTime = true
 
   [params.banner]
-  dismissible = true
-  text = "🎮 Check out my latest game — Chyma and the Toll of Time!"
-  url = "https://ethansong59.itch.io/beware"
+    dismissible = true
+    text = "🎮 Check out my latest game — Chyma and the Toll of Time!"
+    url = "https://ethansong59.itch.io/beware"
 
 [[params.social]]
-name = "Github"
-icon = "fa-brands fa-github fa-2x"
-weight = 1
-url = "https://github.com/drewherlocher/"
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/drewherlocher/"
 
 [[params.social]]
-name = "Email"
-icon = "fa-solid fa-envelope fa-2x"
-weight = 2
-url = "mailto:drewmychiskyt@gmail.com"
+  name = "Email"
+  icon = "fa-solid fa-envelope fa-2x"
+  weight = 2
+  url = "mailto:drewmychiskyt@gmail.com"
 
 [languages]
-  [languages.en.params]
+  [languages.en]
     languageName = "English"
+
+  [languages.en.params]
     subtitle = "Game Programmer"
     copyright = "Drew Herlocher"
     menuMore = "Show more"
@@ -58,27 +59,27 @@ url = "mailto:drewmychiskyt@gmail.com"
       logoText = "Drew Herlocher"
       logoHomeLink = "/"
 
-[[menu.main]]
-name = "About"
-weight = 1
-url = "/about/"
+  [[languages.en.menu.main]]
+    name = "About"
+    weight = 1
+    url = "/about/"
 
-[[menu.main]]
-name = "Projects"
-weight = 2
-url = "/projects/"
+  [[languages.en.menu.main]]
+    name = "Projects"
+    weight = 2
+    url = "/projects/"
 
-[[menu.main]]
-name = "Resume"
-weight = 3
-url = "/resume/"
+  [[languages.en.menu.main]]
+    name = "Resume"
+    weight = 3
+    url = "/resume/"
 
-[[menu.main]]
-name = "Blog"
-weight = 4
-url = "/blog/"
+  [[languages.en.menu.main]]
+    name = "Blog"
+    weight = 4
+    url = "/blog/"
 
-[[menu.main]]
-name = "Contact"
-weight = 5
-url = "/contact/"
+  [[languages.en.menu.main]]
+    name = "Contact"
+    weight = 5
+    url = "/contact/"
