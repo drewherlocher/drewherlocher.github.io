@@ -23,6 +23,7 @@ I'm passionate about building interactive experiences and am always looking to s
 ### Education
 
 **Champlain College** — Bachelor's Degree in Game Programming
+
 *January 2023 – May 2026, Burlington, VT*
 
 - Champlain Abroad – Montreal Study Program *(Jan 2025 – May 2025)*
@@ -30,6 +31,7 @@ I'm passionate about building interactive experiences and am always looking to s
 - Champlain Abroad – Montreal Study Program *(May 2023 – June 2023)*
 
 **Borough of Manhattan Community College**
+
 *January 2022 – December 2022, New York, NY*
 
 - Phi Theta Kappa Honor Society
