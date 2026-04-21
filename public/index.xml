@@ -2,39 +2,201 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drew Herlocher</title>
-    <link>http://localhost:1313/Drew-Website/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Drew Herlocher</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/Drew-Website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/Drew-Website/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Drew-Website/about/</guid>
-      <description>&lt;img src=&#34;http://localhost:1313/Drew-Website/drew_portfolio.jpg&#34; alt=&#34;Drew Herlocher&#34; style=&#34;max-width: 300px; border-radius: 8px;&#34; /&gt;&#xA;&lt;h2 id=&#34;hi-im-drew-herlocher&#34;&gt;&#xD;&#xA;  Hi, I&amp;rsquo;m Drew Herlocher&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#hi-im-drew-herlocher&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;I&amp;rsquo;m a Game Programming student at Champlain College in Burlington, VT, graduating in May 2026. I&amp;rsquo;ve always been drawn to the way games blend technology and creativity the idea that you can write code that makes someone feel something is what got me into this field, and it&amp;rsquo;s what keeps me going.&lt;/p&gt;&#xA;&lt;p&gt;Originally from the Upper West Side in New York City, I&amp;rsquo;ve had the opportunity to study abroad through Champlain three times! Twice in Montreal and once in Dublin, Ireland. Those experiences pushed me outside my comfort zone and gave me a much broader perspective on design, culture, and collaboration.&lt;/p&gt;</description>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;img src=&#34;http://localhost:1313/Drew-Website/drew_portfolio.jpg&#34; alt=&#34;Drew Herlocher&#34; style=&#34;max-width: 300px; border-radius: 8px;&#34; /&gt;
+&lt;h2 id=&#34;hi-im-drew-herlocher&#34;&gt;Hi, I&amp;rsquo;m Drew Herlocher&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m a Game Programming student at Champlain College in Burlington, VT, graduating in May 2026. I&amp;rsquo;ve always been drawn to the way games blend technology and creativity the idea that you can write code that makes someone feel something is what got me into this field, and it&amp;rsquo;s what keeps me going.&lt;/p&gt;
+&lt;p&gt;Originally from the Upper West Side in New York City, I&amp;rsquo;ve had the opportunity to study abroad through Champlain three times! Twice in Montreal and once in Dublin, Ireland. Those experiences pushed me outside my comfort zone and gave me a much broader perspective on design, culture, and collaboration.&lt;/p&gt;</description>
+      <content>&lt;img src=&#34;http://localhost:1313/Drew-Website/drew_portfolio.jpg&#34; alt=&#34;Drew Herlocher&#34; style=&#34;max-width: 300px; border-radius: 8px;&#34; /&gt;
+&lt;h2 id=&#34;hi-im-drew-herlocher&#34;&gt;Hi, I&amp;rsquo;m Drew Herlocher&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m a Game Programming student at Champlain College in Burlington, VT, graduating in May 2026. I&amp;rsquo;ve always been drawn to the way games blend technology and creativity the idea that you can write code that makes someone feel something is what got me into this field, and it&amp;rsquo;s what keeps me going.&lt;/p&gt;
+&lt;p&gt;Originally from the Upper West Side in New York City, I&amp;rsquo;ve had the opportunity to study abroad through Champlain three times! Twice in Montreal and once in Dublin, Ireland. Those experiences pushed me outside my comfort zone and gave me a much broader perspective on design, culture, and collaboration.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m passionate about building interactive experiences and am always looking to sharpen my skills, whether that&amp;rsquo;s diving deeper into C++ and game engine work or exploring new tools and frameworks.&lt;/p&gt;
+&lt;h3 id=&#34;technical-skills&#34;&gt;Technical Skills&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; Python, C++, C#, JavaScript, CSS, HTML&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tools:&lt;/strong&gt; Photoshop, Salesforce, Square, Microsoft Windows&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Soft Skills:&lt;/strong&gt; Teamwork, Communication, Customer Service&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Champlain College&lt;/strong&gt; — Bachelor&amp;rsquo;s Degree in Game Programming&lt;br&gt;
+&lt;em&gt;January 2023 – May 2026, Burlington, VT&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Champlain Abroad – Montreal Study Program &lt;em&gt;(Jan 2025 – May 2025)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Champlain Abroad – Dublin Study Program &lt;em&gt;(May 2024 – June 2024)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Champlain Abroad – Montreal Study Program &lt;em&gt;(May 2023 – June 2023)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Borough of Manhattan Community College&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;January 2022 – December 2022, New York, NY&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Phi Theta Kappa Honor Society&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;experience&#34;&gt;Experience&lt;/h3&gt;
+&lt;p&gt;I bring a mix of technical knowledge and real-world, people-facing experience. As a Student Ambassador at Champlain College I led campus tours for prospective students, tracked outreach in Salesforce, and learned how to represent something I genuinely care about. Before that I worked as a barista, a print manager, and most recently as a cashier at Target, roles that built my communication, problem-solving, and composure under pressure.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/resume&#34;&gt;View my full resume →&lt;/a&gt;&lt;/p&gt;
+</content>
     </item>
+    
     <item>
       <title>Beware</title>
-      <link>http://localhost:1313/Drew-Website/projects/project-1/</link>
+      <link>http://localhost:1313/projects/project-1/</link>
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Drew-Website/projects/project-1/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://img.itch.zone/aW1nLzIwMzk3ODA3LnBuZw==/original/CSwFUn.png&#34; alt=&#34;Beware&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;beware&#34;&gt;&#xD;&#xA;  Beware&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#beware&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Lead Programmer &amp;amp; AI Programmer&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;Unreal Engine | 3D Horror | Windows&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;In a national park, rumors of a terrifying bear with supernatural powers are spreading like wildfire. Her name — Ursula. Only a conspiracy theorist like yourself would dare check it out&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;As &lt;strong&gt;Lead Programmer and AI Programmer&lt;/strong&gt;, I was responsible for the core systems that make Beware tick. My primary focus was designing and implementing Ursula&amp;rsquo;s AI — building the behavior that lets her detect sound, react to the player&amp;rsquo;s movements, and create the tension that drives the whole game.&lt;/p&gt;</description>
+      
+      <guid>http://localhost:1313/projects/project-1/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://img.itch.zone/aW1nLzIwMzk3ODA3LnBuZw==/original/CSwFUn.png&#34; alt=&#34;Beware&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;beware&#34;&gt;Beware&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Lead Programmer &amp;amp; AI Programmer&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Unreal Engine | 3D Horror | Windows&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In a national park, rumors of a terrifying bear with supernatural powers are spreading like wildfire. Her name — Ursula. Only a conspiracy theorist like yourself would dare check it out&amp;hellip;&lt;/p&gt;
+&lt;p&gt;As &lt;strong&gt;Lead Programmer and AI Programmer&lt;/strong&gt;, I was responsible for the core systems that make Beware tick. My primary focus was designing and implementing Ursula&amp;rsquo;s AI — building the behavior that lets her detect sound, react to the player&amp;rsquo;s movements, and create the tension that drives the whole game.&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;img src=&#34;https://img.itch.zone/aW1nLzIwMzk3ODA3LnBuZw==/original/CSwFUn.png&#34; alt=&#34;Beware&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;beware&#34;&gt;Beware&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Lead Programmer &amp;amp; AI Programmer&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Unreal Engine | 3D Horror | Windows&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In a national park, rumors of a terrifying bear with supernatural powers are spreading like wildfire. Her name — Ursula. Only a conspiracy theorist like yourself would dare check it out&amp;hellip;&lt;/p&gt;
+&lt;p&gt;As &lt;strong&gt;Lead Programmer and AI Programmer&lt;/strong&gt;, I was responsible for the core systems that make Beware tick. My primary focus was designing and implementing Ursula&amp;rsquo;s AI — building the behavior that lets her detect sound, react to the player&amp;rsquo;s movements, and create the tension that drives the whole game.&lt;/p&gt;
+&lt;h3 id=&#34;my-contributions&#34;&gt;My Contributions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed and programmed Ursula&amp;rsquo;s AI behavior system, including sound detection and player awareness&lt;/li&gt;
+&lt;li&gt;Led the programming team and coordinated technical implementation across the project&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;gameplay&#34;&gt;Gameplay&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Roam a spooky forest full of set pieces and secrets&lt;/li&gt;
+&lt;li&gt;Throw rocks to distract Ursula and use sound strategically&lt;/li&gt;
+&lt;li&gt;Sneak, crouch, and stay out of sight to survive&lt;/li&gt;
+&lt;li&gt;Capture the perfect photo of Ursula and escape — the better the photo, the better your ending&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Made with:&lt;/strong&gt; Unreal Engine&lt;br&gt;
+&lt;strong&gt;Genre:&lt;/strong&gt; 3D Horror, Stealth, Action&lt;br&gt;
+&lt;strong&gt;Team:&lt;/strong&gt;  Team AWESOME at Champlain College&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ethansong59.itch.io/beware&#34;&gt;Play on itch.io&lt;/a&gt;&lt;/p&gt;
+</content>
     </item>
+    
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/Drew-Website/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Drew-Website/contact/</guid>
-      <description>&lt;h2 id=&#34;get-in-touch&#34;&gt;&#xD;&#xA;  Get In Touch&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#get-in-touch&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;I&amp;rsquo;m always open to connecting — whether it&amp;rsquo;s about a project, an opportunity, or just to talk game dev.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Burlington, VT 05401&lt;br&gt;&#xA;&lt;strong&gt;Phone:&lt;/strong&gt; &lt;a href=&#34;tel:6467158544&#34; &gt;646-715-8544&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:drew.herlocher@mymail.champlain.edu&#34; &gt;drew.herlocher@mymail.champlain.edu&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;You can also find me on:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;#&#34; &gt;github.com/drewherlocher&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;#&#34; &gt;linkedin.com/in/drewherlocher&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I&amp;rsquo;m currently a Game Programming student at Champlain College, graduating May 2026, and open to internship and entry-level opportunities in game development.&lt;/p&gt;</description>
+      
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h2 id=&#34;get-in-touch&#34;&gt;Get In Touch&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m always open to connecting — whether it&amp;rsquo;s about a project, an opportunity, or just to talk game dev.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Burlington, VT 05401&lt;br&gt;
+&lt;strong&gt;Phone:&lt;/strong&gt; &lt;a href=&#34;tel:6467158544&#34;&gt;646-715-8544&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:drew.herlocher@mymail.champlain.edu&#34;&gt;drew.herlocher@mymail.champlain.edu&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;You can also find me on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;#&#34;&gt;github.com/drewherlocher&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;#&#34;&gt;linkedin.com/in/drewherlocher&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I&amp;rsquo;m currently a Game Programming student at Champlain College, graduating May 2026, and open to internship and entry-level opportunities in game development.&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;get-in-touch&#34;&gt;Get In Touch&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m always open to connecting — whether it&amp;rsquo;s about a project, an opportunity, or just to talk game dev.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Burlington, VT 05401&lt;br&gt;
+&lt;strong&gt;Phone:&lt;/strong&gt; &lt;a href=&#34;tel:6467158544&#34;&gt;646-715-8544&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:drew.herlocher@mymail.champlain.edu&#34;&gt;drew.herlocher@mymail.champlain.edu&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;You can also find me on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;#&#34;&gt;github.com/drewherlocher&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;#&#34;&gt;linkedin.com/in/drewherlocher&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I&amp;rsquo;m currently a Game Programming student at Champlain College, graduating May 2026, and open to internship and entry-level opportunities in game development.&lt;/p&gt;
+</content>
     </item>
+    
     <item>
       <title>Resume</title>
-      <link>http://localhost:1313/Drew-Website/resume/</link>
+      <link>http://localhost:1313/resume/</link>
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Drew-Website/resume/</guid>
-      <description>&lt;h2 id=&#34;drew-herlocher&#34;&gt;&#xD;&#xA;  Drew Herlocher&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#drew-herlocher&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Game Programming Student&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;194 St. Paul Street, Burlington, VT 05401&lt;br&gt;&#xA;646-715-8544 | &lt;a href=&#34;mailto:drew.herlocher@mymail.champlain.edu&#34; &gt;drew.herlocher@mymail.champlain.edu&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/Drew-Website/DrewHerlocherResume2024-1.pdf&#34; &gt;Download PDF Resume&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;skills&#34;&gt;&#xD;&#xA;  Skills&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#skills&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Technical:&lt;/strong&gt; Python, C++, C#, JavaScript, CSS, HTML, Photoshop, Salesforce, Microsoft Windows&lt;br&gt;&#xA;&lt;strong&gt;Service:&lt;/strong&gt; Teamwork, Customer Service, Cash Handling, Square&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;experience&#34;&gt;&#xD;&#xA;  Experience&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#experience&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Target — Cashier&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;October 2024 – December 2024, Burlington, VT&lt;/em&gt;&lt;/p&gt;</description>
+      
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;h2 id=&#34;drew-herlocher&#34;&gt;Drew Herlocher&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Game Programming Student&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;194 St. Paul Street, Burlington, VT 05401&lt;br&gt;
+646-715-8544 | &lt;a href=&#34;mailto:drew.herlocher@mymail.champlain.edu&#34;&gt;drew.herlocher@mymail.champlain.edu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/DrewHerlocherResume2024-1.pdf&#34;&gt;Download PDF Resume&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;skills&#34;&gt;Skills&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Technical:&lt;/strong&gt; Python, C++, C#, JavaScript, CSS, HTML, Photoshop, Salesforce, Microsoft Windows&lt;br&gt;
+&lt;strong&gt;Service:&lt;/strong&gt; Teamwork, Customer Service, Cash Handling, Square&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;experience&#34;&gt;Experience&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Target — Cashier&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;October 2024 – December 2024, Burlington, VT&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Provided excellent customer service, handled payments, and maintained an organized work environment&lt;/li&gt;
+&lt;li&gt;Assisted with mobile orders and distribution to customers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Champlain College — Student Ambassador&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;August 2023 – February 2024, Burlington, VT&lt;/em&gt;&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;drew-herlocher&#34;&gt;Drew Herlocher&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Game Programming Student&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;194 St. Paul Street, Burlington, VT 05401&lt;br&gt;
+646-715-8544 | &lt;a href=&#34;mailto:drew.herlocher@mymail.champlain.edu&#34;&gt;drew.herlocher@mymail.champlain.edu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/DrewHerlocherResume2024-1.pdf&#34;&gt;Download PDF Resume&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;skills&#34;&gt;Skills&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Technical:&lt;/strong&gt; Python, C++, C#, JavaScript, CSS, HTML, Photoshop, Salesforce, Microsoft Windows&lt;br&gt;
+&lt;strong&gt;Service:&lt;/strong&gt; Teamwork, Customer Service, Cash Handling, Square&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;experience&#34;&gt;Experience&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Target — Cashier&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;October 2024 – December 2024, Burlington, VT&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Provided excellent customer service, handled payments, and maintained an organized work environment&lt;/li&gt;
+&lt;li&gt;Assisted with mobile orders and distribution to customers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Champlain College — Student Ambassador&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;August 2023 – February 2024, Burlington, VT&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Led prospective student campus tours, answering relevant questions and representing Champlain College&amp;rsquo;s student body&lt;/li&gt;
+&lt;li&gt;Followed up with prospective students to support the application process&lt;/li&gt;
+&lt;li&gt;Database entry in Salesforce; maintained up-to-date paperwork and an organized office space&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Tidal Tea — Barista&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;January 2022 – December 2022, New York, NY&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Provided excellent customer service, handled orders and payments, and ensured a clean work environment&lt;/li&gt;
+&lt;li&gt;Prepared food and beverages, maintained inventory, and managed opening and closing procedures&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Ivy League Stationers — Print Manager&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;January 2021 – July 2021, New York, NY&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Oversaw printer operations and managed incoming orders&lt;/li&gt;
+&lt;li&gt;Ensured a welcoming experience for customers&lt;/li&gt;
+&lt;li&gt;Provided assistance with computer maintenance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Champlain College&lt;/strong&gt; — Bachelor&amp;rsquo;s Degree in Game Programming&lt;br&gt;
+&lt;em&gt;January 2023 – May 2026, Burlington, VT&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Champlain Abroad – Montreal Study Program &lt;em&gt;(Jan 2025 – May 2025)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Champlain Abroad – Dublin Study Program &lt;em&gt;(May 2024 – June 2024)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Champlain Abroad – Montreal Study Program &lt;em&gt;(May 2023 – June 2023)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Borough of Manhattan Community College&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;January 2022 – December 2022, New York, NY&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Phi Theta Kappa Honor Society&lt;/li&gt;
+&lt;/ul&gt;
+</content>
     </item>
+    
   </channel>
 </rss>

@@ -2,18 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Drew Herlocher</title>
-    <link>http://localhost:1313/Drew-Website/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on Drew Herlocher</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/Drew-Website/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beware</title>
-      <link>http://localhost:1313/Drew-Website/projects/project-1/</link>
+      <link>http://localhost:1313/projects/project-1/</link>
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Drew-Website/projects/project-1/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://img.itch.zone/aW1nLzIwMzk3ODA3LnBuZw==/original/CSwFUn.png&#34; alt=&#34;Beware&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;beware&#34;&gt;&#xD;&#xA;  Beware&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#beware&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Lead Programmer &amp;amp; AI Programmer&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;Unreal Engine | 3D Horror | Windows&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;In a national park, rumors of a terrifying bear with supernatural powers are spreading like wildfire. Her name — Ursula. Only a conspiracy theorist like yourself would dare check it out&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;As &lt;strong&gt;Lead Programmer and AI Programmer&lt;/strong&gt;, I was responsible for the core systems that make Beware tick. My primary focus was designing and implementing Ursula&amp;rsquo;s AI — building the behavior that lets her detect sound, react to the player&amp;rsquo;s movements, and create the tension that drives the whole game.&lt;/p&gt;</description>
+      
+      <guid>http://localhost:1313/projects/project-1/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://img.itch.zone/aW1nLzIwMzk3ODA3LnBuZw==/original/CSwFUn.png&#34; alt=&#34;Beware&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;beware&#34;&gt;Beware&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Lead Programmer &amp;amp; AI Programmer&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Unreal Engine | 3D Horror | Windows&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In a national park, rumors of a terrifying bear with supernatural powers are spreading like wildfire. Her name — Ursula. Only a conspiracy theorist like yourself would dare check it out&amp;hellip;&lt;/p&gt;
+&lt;p&gt;As &lt;strong&gt;Lead Programmer and AI Programmer&lt;/strong&gt;, I was responsible for the core systems that make Beware tick. My primary focus was designing and implementing Ursula&amp;rsquo;s AI — building the behavior that lets her detect sound, react to the player&amp;rsquo;s movements, and create the tension that drives the whole game.&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;img src=&#34;https://img.itch.zone/aW1nLzIwMzk3ODA3LnBuZw==/original/CSwFUn.png&#34; alt=&#34;Beware&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;beware&#34;&gt;Beware&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Lead Programmer &amp;amp; AI Programmer&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Unreal Engine | 3D Horror | Windows&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In a national park, rumors of a terrifying bear with supernatural powers are spreading like wildfire. Her name — Ursula. Only a conspiracy theorist like yourself would dare check it out&amp;hellip;&lt;/p&gt;
+&lt;p&gt;As &lt;strong&gt;Lead Programmer and AI Programmer&lt;/strong&gt;, I was responsible for the core systems that make Beware tick. My primary focus was designing and implementing Ursula&amp;rsquo;s AI — building the behavior that lets her detect sound, react to the player&amp;rsquo;s movements, and create the tension that drives the whole game.&lt;/p&gt;
+&lt;h3 id=&#34;my-contributions&#34;&gt;My Contributions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed and programmed Ursula&amp;rsquo;s AI behavior system, including sound detection and player awareness&lt;/li&gt;
+&lt;li&gt;Led the programming team and coordinated technical implementation across the project&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;gameplay&#34;&gt;Gameplay&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Roam a spooky forest full of set pieces and secrets&lt;/li&gt;
+&lt;li&gt;Throw rocks to distract Ursula and use sound strategically&lt;/li&gt;
+&lt;li&gt;Sneak, crouch, and stay out of sight to survive&lt;/li&gt;
+&lt;li&gt;Capture the perfect photo of Ursula and escape — the better the photo, the better your ending&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Made with:&lt;/strong&gt; Unreal Engine&lt;br&gt;
+&lt;strong&gt;Genre:&lt;/strong&gt; 3D Horror, Stealth, Action&lt;br&gt;
+&lt;strong&gt;Team:&lt;/strong&gt;  Team AWESOME at Champlain College&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ethansong59.itch.io/beware&#34;&gt;Play on itch.io&lt;/a&gt;&lt;/p&gt;
+</content>
     </item>
+    
   </channel>
 </rss>

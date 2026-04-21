@@ -1,19 +1,18 @@
 baseURL = 'https://drewherlocher.github.io/'
 title = "Drew Herlocher"
-theme = "hugo-coder"
+theme = "re-terminal"
 languageCode = "en"
 defaultContentLanguage = "en"
 enableEmoji = true
 
 [markup]
-[markup.goldmark]
-[markup.goldmark.renderer]
-unsafe = true
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
 author = "Drew Herlocher"
-description = "Game Programmer"
-info = ["Game Programmer"]
+description = "Game Programming student at Champlain College, graduating May 2026. I build games, interactive experiences, and the AI systems that make them feel alive. Based in Burlington, VT — originally from New York City."
 colorScheme = "auto"
 
 [[params.social]]
