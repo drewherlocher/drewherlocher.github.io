@@ -1,6 +1,5 @@
 ---
 title: "Resume"
-date: 2026-01-28
 draft: false
 ---
 
@@ -12,7 +11,7 @@ draft: false
 
 646-715-8544 | drewmychiskyt@gmail.com
 
-[📄 Download PDF Resume](/DrewHerlocherResume2024-1.pdf)
+[Download PDF Resume](/DrewHerlocherResume2024-1.pdf)
 
 ### Skills
 

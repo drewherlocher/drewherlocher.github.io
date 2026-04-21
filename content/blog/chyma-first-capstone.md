@@ -1,6 +1,6 @@
 ---
 title: "Introducing Chyma and the Toll of Time — My Senior Capstone"
-date: 2026-03-07
+date: 2026-02-28
 draft: false
 tags: ["game dev", "capstone", "Unity", "programming", "Chyma"]
 ---

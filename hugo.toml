@@ -17,16 +17,15 @@ disableKinds = ["RSS"]
 
 [params]
   author = "Drew Herlocher"
-  description = "Game Programming student at Champlain College, graduating May 2026. I build games, interactive experiences, and the AI systems that make them feel alive. Based in Burlington, VT — originally from New York City."
+  description = "Game Programming student at Champlain College, graduating May 2026. I build games, focusing on making the graphical tools for artists and designers, and the AI systems that make the games feel alive. Based in Burlington, VT — originally from New York City."
   themeColor = "pink"
   centerTheme = true
   contentTypeName = "blog"
-  readingTime = true
 
   [params.banner]
     dismissible = true
-    text = "🎮 Check out my latest game — Chyma and the Toll of Time!"
-    url = "https://ethansong59.itch.io/beware"
+    text = "Check out my latest game on Steam! — Chyma and the Toll of Time!"
+    url = "https://store.steampowered.com/app/4555180/Chyma_and_the_Toll_of_Time/"
 
 [[params.social]]
   name = "Github"
@@ -56,7 +55,7 @@ disableKinds = ["RSS"]
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Drew Herlocher"
+      logoText = "void DrewHerlocher()"
       logoHomeLink = "/"
 
   [[languages.en.menu.main]]
