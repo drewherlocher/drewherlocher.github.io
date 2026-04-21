@@ -4,7 +4,7 @@ date: 2026-01-28
 draft: false
 ---
 
-<img src="/drew_portfolio.jpg" alt="Drew Herlocher" style="max-width: 300px; border-radius: 8px;" />
+{{< image src="/drew_portfolio.jpg" alt="Drew Herlocher" position="center" style="border-radius: 8px; max-width: 300px;" >}}
 
 ## Hi, I'm Drew Herlocher
 

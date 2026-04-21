@@ -18,7 +18,26 @@ disableKinds = ["RSS"]
 [params]
 author = "Drew Herlocher"
 description = "Game Programming student at Champlain College, graduating May 2026. I build games, interactive experiences, and the AI systems that make them feel alive. Based in Burlington, VT — originally from New York City."
-colorScheme = "auto"
+themeColor = "pink"
+centerTheme = true
+contentTypeName = "posts" 
+
+[languages]
+  [languages.en.params]
+    languageName = "English"
+    subtitle = "Game Programmer"
+    copyright = "Drew Herlocher"
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+
+    [languages.en.params.logo]
+      logoText = "Drew Herlocher"
+      logoHomeLink = "/"
 
 [[params.social]]
 name = "Github"
@@ -32,22 +51,32 @@ icon = "fa-solid fa-envelope fa-2x"
 weight = 2
 url = "mailto:drewmychiskyt@gmail.com"
 
+[params.banner]
+  dismissible = true
+  text = " Check out my latest game — Chyma and the Toll of Time!"
+  url = "https://store.steampowered.com/app/4555180/Chyma_and_the_Toll_of_Time/"
+
 [[menu.main]]
 name = "About"
 weight = 1
 url = "/about/"
 
 [[menu.main]]
-name = "Projects"
+name = "Contact"
 weight = 2
-url = "/projects/"
+url = "/contact/"
+
+[[menu.main]]
+name = "Blog"
+weight = 3
+url = "/blog/"
 
 [[menu.main]]
 name = "Resume"
-weight = 3
+weight = 4
 url = "/resume/"
 
 [[menu.main]]
 name = "Contact"
-weight = 4
+weight = 5
 url = "/contact/"
