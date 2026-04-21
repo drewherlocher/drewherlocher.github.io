@@ -4,6 +4,7 @@ theme = "re-terminal"
 languageCode = "en"
 defaultContentLanguage = "en"
 enableEmoji = true
+disableKinds = ["RSS"]
 
 [markup]
   [markup.goldmark]
