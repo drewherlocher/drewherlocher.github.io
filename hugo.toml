@@ -18,9 +18,28 @@ disableKinds = ["RSS"]
 [params]
 author = "Drew Herlocher"
 description = "Game Programming student at Champlain College, graduating May 2026. I build games, interactive experiences, and the AI systems that make them feel alive. Based in Burlington, VT — originally from New York City."
+colorScheme = "auto"
 themeColor = "pink"
 centerTheme = true
-contentTypeName = "posts" 
+contentTypeName = "blog"
+readingTime = true
+
+  [params.banner]
+  dismissible = true
+  text = "🎮 Check out my latest game — Chyma and the Toll of Time!"
+  url = "https://ethansong59.itch.io/beware"
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/drewherlocher/"
+
+[[params.social]]
+name = "Email"
+icon = "fa-solid fa-envelope fa-2x"
+weight = 2
+url = "mailto:drewmychiskyt@gmail.com"
 
 [languages]
   [languages.en.params]
@@ -39,42 +58,25 @@ contentTypeName = "posts"
       logoText = "Drew Herlocher"
       logoHomeLink = "/"
 
-[[params.social]]
-name = "Github"
-icon = "fa-brands fa-github fa-2x"
-weight = 1
-url = "https://github.com/drewherlocher/"
-
-[[params.social]]
-name = "Email"
-icon = "fa-solid fa-envelope fa-2x"
-weight = 2
-url = "mailto:drewmychiskyt@gmail.com"
-
-[params.banner]
-  dismissible = true
-  text = " Check out my latest game — Chyma and the Toll of Time!"
-  url = "https://store.steampowered.com/app/4555180/Chyma_and_the_Toll_of_Time/"
-
 [[menu.main]]
 name = "About"
 weight = 1
 url = "/about/"
 
 [[menu.main]]
-name = "Contact"
+name = "Projects"
 weight = 2
-url = "/contact/"
-
-[[menu.main]]
-name = "Blog"
-weight = 3
-url = "/blog/"
+url = "/projects/"
 
 [[menu.main]]
 name = "Resume"
-weight = 4
+weight = 3
 url = "/resume/"
+
+[[menu.main]]
+name = "Blog"
+weight = 4
+url = "/blog/"
 
 [[menu.main]]
 name = "Contact"
